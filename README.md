@@ -37,7 +37,7 @@
 <br>
 
 ## 🚀 Next Level Week #02 - Proffy  
-The Next Level Week is a project created by [RocketSeat](https://rocketseat.com.br/) to replace the OmniStack Week. The goal is to develop a complete application in a week.
+The Next Level Week is a project created by [Rocketseat](https://rocketseat.com.br/) to replace the OmniStack Week. The goal is to develop a complete application in a week.
 
 This new model differs from the other by having two versions, the Discovery, designed for beginners, and the OmniStack, with the more advanced content.
 
