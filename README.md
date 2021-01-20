@@ -78,7 +78,6 @@ A REST API built with Node.js and TypeScript.
 - *[Express](https://expressjs.com/pt-br/)*
 - *[Knex.js](http://knexjs.org/)*
 - *[Nodemon](https://nodemon.io/)*
-- *[Celebrate](https://github.com/arb/celebrate)*
 
 <br>
 
